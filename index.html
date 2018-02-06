@@ -1,0 +1,97 @@
+---
+layout: null
+title: UFC nas ESCOLAS 
+description: Venha conhecer o projeto. 
+sitemap:
+    priority: 1.0
+    lastmod: 2018-02-01
+    changefreq: weekly
+---
+<!DOCTYPE HTML>
+<html>
+	<head>
+    {% include head.html %}
+
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+				<!-- Intro -->
+					<div id="intro">
+            			<h1>{{site.title}}</h1>
+						<h2>Uma ponte entre Universidade e Escola</h2>	
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+
+						<ul class="icons">
+              <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
+              <li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
+              <li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
+              <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Posts -->
+							<section class="posts">
+                {% for post in site.posts limit:3 %}
+                {% assign mod3 = forloop.index | modulo: 3 %}
+  								<article>
+  									<header>
+  										<span class="date">{{ post.date | date_to_string }}</span>
+  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
+  									</header>
+  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									<p>{{ post.excerpt }}</p>
+  									<ul class="actions">
+  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+  									</ul>
+  								</article>
+                  {% if mod3 == 0 %}
+                  <article>
+  									<header>
+  										<h2><a href="#">Sponsored</h2>
+  									</header>
+
+  								</article>
+                  {% endif %}
+                {% endfor %}
+
+							</section>
+                <!-- Featured Post -->
+                    <article class="post featured">
+                        <header class="major">
+                            <h2><a href="#">UFC nas ESCOLAS</a></h2>
+                            <p>Um projeto da Universidade Federal do Ceará em Quixadá<br />
+                         que deseja ser a ponte entre a Universidade e as Escolas da região.<br />
+                        </header>
+                        <a href="#" class="image main"><img src="{{ "/images/quixada.jpg" | absolute_url }}" alt="" /></a>
+                    </article>
+
+
+
+					</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+		<!-- Scripts -->
+		{% include scripts-main.html %}
+    {% include tracking.html %}
+
+	</body>
+</html>
