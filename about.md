@@ -36,4 +36,5 @@ Nosso objetivo é levar a programação como um sedutora atração que entre no 
 </div>
 
 <span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
- Então vamos calçar os sapatos e sair pra trabalhar.
+
+ Então vamos calçar os sapatos e sair pra trabalhar. Existem muitas escolas à visitas e muitos alunos que não sabem que existe uma universidade pública de qualidade que espera e acredita neles.
