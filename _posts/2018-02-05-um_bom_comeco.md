@@ -13,13 +13,12 @@ image: "/images/logo_2018_1_wide.jpg"
 
 ## Links
 
-- [Ofício de Solicitação](/assets/data/oficio.pdf)
-- [Apresentação Slides - Em revisão](https://docs.google.com/presentation/d/1Drx1Z4UK19CmxWwNCCb7y6ILTk1u7dfUGx1SXSXGxgY/edit?usp=sharing)
+- [Ofício de Solicitação para entregar ao Diretor da Escola](/assets/data/oficio.pdf)
+- [Apresentação Slides](https://docs.google.com/presentation/d/1Drx1Z4UK19CmxWwNCCb7y6ILTk1u7dfUGx1SXSXGxgY/edit?usp=sharing)
 - [Banner Benefícios](/assets/data/beneficios.pdf)
 - [Banner Cursos](/assets/data/cursos.pdf)
-- [Formulário de Inscrição para Participar](https://docs.google.com/forms/d/e/1FAIpQLSfsFMWL19uJyk-PbVb91MFPTa4ioyKYonAj5-Yg4PdzEP7opg/viewform?usp=sf_link)
-- [Guia de Procedimentos - Em revisão]()
-
+- [Formulário de Inscrição para Participar como Palentrante](https://docs.google.com/forms/d/e/1FAIpQLSfsFMWL19uJyk-PbVb91MFPTa4ioyKYonAj5-Yg4PdzEP7opg/viewform?usp=sf_link)
+- [Guia de Procedimentos](https://goo.gl/tQBeij)
 - [Link e código para o grupo do Whatsapp se você é aluno e quer tirar dúvidas sobre a ufc](https://chat.whatsapp.com/7wClwncgYOlCSVLFsuiGUt)
 
 <a rel='nofollow' href='http://www.qrcode-generator.de' border='0' style='cursor:default'></a><img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fchat.whatsapp.com%2F7wClwncgYOlCSVLFsuiGUt&chs=180x180&choe=UTF-8&chld=L|2' alt=''>
