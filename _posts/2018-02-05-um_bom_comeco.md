@@ -10,6 +10,20 @@ image: "/images/logo_2018_1_wide.jpg"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BTs6Bv7tJns" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+
+## Links
+
+- [Ofício de Solicitação](/assets/data/oficio.pdf)
+- [Apresentação Slides - Em revisão](https://docs.google.com/presentation/d/1Drx1Z4UK19CmxWwNCCb7y6ILTk1u7dfUGx1SXSXGxgY/edit?usp=sharing)
+- [Banner Benefícios](/assets/data/beneficios.pdf)
+- [Banner Cursos](/assets/data/cursos.pdf)
+- [Formulário de Inscrição para Participar](https://docs.google.com/forms/d/e/1FAIpQLSfsFMWL19uJyk-PbVb91MFPTa4ioyKYonAj5-Yg4PdzEP7opg/viewform?usp=sf_link)
+- [Guia de Procedimentos - Em revisão]()
+
+- [Link e código para o grupo do Whatsapp se você é aluno e quer tirar dúvidas sobre a ufc](https://chat.whatsapp.com/7wClwncgYOlCSVLFsuiGUt)
+
+<a rel='nofollow' href='http://www.qrcode-generator.de' border='0' style='cursor:default'></a><img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fchat.whatsapp.com%2F7wClwncgYOlCSVLFsuiGUt&chs=180x180&choe=UTF-8&chld=L|2' alt=''>
+
 ## Convite às Escolas
 
 Olá prezado(a) Diretor(a),
@@ -21,14 +35,7 @@ Nosso foco são as turmas de 2o e 3o anos, escolas profissionalizantes e cursinh
 
 Abaixo, estão os materiais de divulgação que serão utilizados na visita. Fico à disposição no email ufcnasescolas@gmail.com para tirar qualquer dúvida.
 
-## Links
 
-- [Ofício de Solicitação](/assets/data/oficio.pdf)
-- [Apresentação Slides - Em revisão](https://docs.google.com/presentation/d/1Drx1Z4UK19CmxWwNCCb7y6ILTk1u7dfUGx1SXSXGxgY/edit?usp=sharing)
-- [Banner Benefícios](/assets/data/beneficios.pdf)
-- [Banner Cursos](/assets/data/cursos.pdf)
-- [Formulário de Inscrição para Participar](https://docs.google.com/forms/d/e/1FAIpQLSfsFMWL19uJyk-PbVb91MFPTa4ioyKYonAj5-Yg4PdzEP7opg/viewform?usp=sf_link)
-- [Guia de Procedimentos - Em revisão]()
 
 ## Escolas Participantes em 2017
 
