@@ -6,4 +6,7 @@ excerpt: "Espere novidades"
 image: "/images/novidade.jpg"
 ---
 
-# Logo teremos novidades
+# Logo teremos novidad
+![](https://image.ibb.co/fFUqCy/Interacao_racha_11_04_2018.jpg)
+
+![](https://image.ibb.co/fFUqCy/Interacao_racha_11_04_2018.jpg)
