@@ -3,13 +3,12 @@ layout: post
 title:  "UFC DAY 2018.1 - A Universidade é Possível"
 date:   2018-02-05
 excerpt: "Dia 26/02/18 - Vamos iniciar o Ano bem"
-image: "/images/logo_2018_1_wide.jpg"
+image: "/images/2018-02-05/logo_2018_1_wide.jpg"
 ---
 
 ## Vídeo Convite
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BTs6Bv7tJns" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 
 ## Links
 
@@ -33,8 +32,6 @@ Aqui na UFC Quixadá temos alunos de mais de 80 cidades diferentes em 6 cursos d
 Nosso foco são as turmas de 2o e 3o anos, escolas profissionalizantes e cursinhos. Gostaríamos de pedir entre 20min e 50min para nossos alunos voluntários conversarem em cada uma dessas turmas. Dependendo da estrutura da escola e possibilidades, poderemos realizar as visitas da forma que for mais conveniente.
 
 Abaixo, estão os materiais de divulgação que serão utilizados na visita. Fico à disposição no email ufcnasescolas@gmail.com para tirar qualquer dúvida.
-
-
 
 ## Escolas Participantes em 2017
 

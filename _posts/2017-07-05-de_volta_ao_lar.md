@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "UFC DAY 2017.2 - De volta ao lar"
-date:   2018-02-05
+date:   2017-07-05
 excerpt: "Vamos voltar à nossa escola de origem"
-image: "/images/2017_2.jpg"
+image: "/images/2017-07-05/2017_2.jpg"
 ---
 
 ## Vídeo de Convite
