@@ -23,19 +23,3 @@ Esperamos vocês como nossos futuros alunos-amigos!!!
 ![](__img1.jpg)
 
 
-
-
-<div class="row">
-  <div class="column">
-    <img src="__capa.jpg">
-    <img src="__capa.jpg">
-  </div>
-  <div class="column">
-    <img src="__img1.jpg">
-    <img src="__img1.jpg">
-  </div>
-  <div class="column">
-    <img src="__img1.jpg">
-    <img src="__img1.jpg">
-  </div>
-</div>

@@ -33,19 +33,3 @@ Esperamos vocês como nossos futuros alunos-amigos!!!
 ![](https://raw.githubusercontent.com/ufcnasescolas/ufcnasescolas.github.io/master/base/15/__img1.jpg)
 
 
-
-
-<div class="row">
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/ufcnasescolas/ufcnasescolas.github.io/master/base/15/__capa.jpg">
-    <img src="https://raw.githubusercontent.com/ufcnasescolas/ufcnasescolas.github.io/master/base/15/__capa.jpg">
-  </div>
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/ufcnasescolas/ufcnasescolas.github.io/master/base/15/__img1.jpg">
-    <img src="https://raw.githubusercontent.com/ufcnasescolas/ufcnasescolas.github.io/master/base/15/__img1.jpg">
-  </div>
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/ufcnasescolas/ufcnasescolas.github.io/master/base/15/__img1.jpg">
-    <img src="https://raw.githubusercontent.com/ufcnasescolas/ufcnasescolas.github.io/master/base/15/__img1.jpg">
-  </div>
-</div>
