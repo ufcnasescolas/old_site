@@ -1,0 +1,25 @@
+{
+  "execute": [
+    {
+      "action": "load_folder",
+      "dir": "base"
+    },
+    {
+      "action": "board",
+      "file": "board.md"
+    },
+    {
+      "action": "thumbs",
+      "width": 320,
+      "height": 180
+    },
+    {
+      "action": "posts",
+      "dir": "_posts",
+      "base_raw_remote": "https://raw.githubusercontent.com/ufcnasescolas/ufcnasescolas.github.io/master/base",
+      "default_date": null,
+      "categories_dir": "category",
+      "file_linker" :"./_includes/menu.html"
+    }
+  ]
+}

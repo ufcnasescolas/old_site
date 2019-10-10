@@ -1,63 +1,91 @@
-# Site
-title:              UFC nas Escolas
-bio:                'Projeto de Extensão'
-description:        "Um projeto UFC Quixadá levando tecnologia às Escolas do Ceará"
-locale:             en_US
+# Site Settings
+name: UFC nas Escolas
+title: UFC nas Escolas
+description: Uma ponte entre escola e universidade
+tags:
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
+email: sena.ufc@gmail.com
+disqus_username: 
+show_hero: true
+
+
+# Social Media Settings
+# Remove the item if you don't need it
+github_username: ufcnasescolas
+#facebook_username: facebook_username
+#twitter_username: twitter_username
+#instagram_username: instagram_username
+#linkedin_username: linkedin_username
+#medium_username: medium_username
+
+
+# Theme Settings
+themeColor: "#ff0a16"
+primaryDark: "#141414"
+accentDark: "#ffffff"
+lightGray: "#f2f2f2"
+texts: "#333333"
+
+
+# Posts Settings
+show_time_bar: false
+show_modal_on_exit: false
+show_modal_on_finish_post: false
+two_columns_layout: true
+
+
+# Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://ufcnasescolas.github.io" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+language: "en"
 
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    permalink: "/blog/:title/"
-    layout: post
-    author:
 
-# Jekyll
-permalink:          /blog/:title/
-markdown:           kramdown
-highlighter:        rouge
-kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
-sass:
-  sass_dir:         _sass
-  style:            compressed
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+collections:
+  authors:
+    output: true
+paginate_path: "/page/:num/"
 
-# Comments
-disqus_shortname:   default
+# Content paginator
+paginate_content:
+  enabled: true
+  debug: false
+  collections:
+    - posts
+  auto: false
+  separator: "--page-break--"
+  permalink: "/:num/"
+  seo_canonical: true
+  properties:
+    part:
+      is_generated: true
+    last:
+      is_generated: true
+    single:
+      is_generated: true
 
-# Social
-analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
-
-# personal
-location:           Quixadá - CE
-phone:              (88) 3412-1256
-email:              ufc.nas.escolas@gmail.com
-
-# Gems
-gems:
-  - jekyll-mentions
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-gist
+# Plugins
+plugins:
   - jekyll-paginate
+  - jekyll-paginate-content
 
-paginate: 6
-paginate_path: "/blog/page:num/"
-
-jekyll-mentions:
-    base_url: https://github.com
-
-# Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
+# Exclude my node related stuff
+exclude: [
+  'package.json',
+  'package-lock.json',
+  'src',
+  'node_modules',
+  'initpost.sh',
+  'Gemfile',
+  'Gemfile.lock',
+  'gulpfile.js',
+  'README.md'
+]

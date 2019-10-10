@@ -1,0 +1,8 @@
+{
+    "base": "../../1_fup/arcade",
+    "execute": {
+        "action" : "posts",
+        "dir": "_posts",
+        "remote": "https://raw.githubusercontent.com/qxcodefup/arcade/master/",
+    }
+}

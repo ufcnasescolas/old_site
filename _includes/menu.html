@@ -1,0 +1,21 @@
+<aside class="sidebar" id="sidebar">
+    <nav id="navigation">
+      <h2>Categorias</h2>
+      <!--
+      {% for page in site.pages %}
+        {% if page.layout == "category" %}
+        <li>
+          <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+        </li>
+        {% endif %}
+      {% endfor %}
+      -->
+      <!--BEGIN-->
+<li><a href="/category/Recepções">{{ "Recepções" }}</a></li>
+<li><a href="/category/Visitas">{{ "Visitas" }}</a></li>
+<li><a href="/category/Eventos">{{ "Eventos" }}</a></li>
+<!--END-->
+      <h2>Menu</h2>
+        {% include links.html %}
+    </nav>
+</aside>
