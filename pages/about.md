@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Nos Conheça
 description: Some description.
 permalink: /about/
 menu: true
