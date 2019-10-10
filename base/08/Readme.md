@@ -1,4 +1,4 @@
-## ð2019-05-24 ©Recepções Recepção da escola Abraão Baquit
+## ð2019-05-24 ©recepcoes Recepção da escola Abraão Baquit
 
 ![](__capa.jpg)
 

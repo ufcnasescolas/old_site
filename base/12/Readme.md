@@ -1,4 +1,5 @@
-## ð2019-06-18 ©Recepções Recepção da escola Adolfo Ferreira
+## ð2019-06-18 ©recepcoes Recepção da escola Adolfo Ferreira
+### Turma de Redes de Computadores da cidade de Redenção
 
 ![](__capa.jpg)
 

@@ -1,4 +1,4 @@
-## ð2019-05-24 ©Visitas Visita à escola Waldemar Falcão
+## ð2019-05-24 ©visitas Visita à escola Waldemar Falcão
 
 ![](__capa.jpg)
 

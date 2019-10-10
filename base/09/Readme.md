@@ -1,4 +1,4 @@
-## ð2019-05-24 ©Visitas Visita à escola Valder Ribeiro
+## ð2019-05-24 ©visitas Visita à escola Valder Ribeiro
 
 ![](__capa.jpg)
 

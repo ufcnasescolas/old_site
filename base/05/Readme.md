@@ -1,4 +1,4 @@
-## ð2019-05-12 ©Visitas Visita à escola Abraão Baquit
+## ð2019-05-12 ©visitas Visita à escola Abraão Baquit
 
 ![](__capa.jpg)
 

@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Visitas
-slug: Visitas
-description: Visitas
+slug: visitas
+description: visitas
 ---

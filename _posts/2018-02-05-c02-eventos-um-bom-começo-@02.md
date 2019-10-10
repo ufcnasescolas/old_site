@@ -3,7 +3,7 @@ layout: post
 title: Um bom começo
 image: https://raw.githubusercontent.com/ufcnasescolas/ufcnasescolas.github.io/master/base/02/__capa.jpg
 optimized_image: https://raw.githubusercontent.com/ufcnasescolas/ufcnasescolas.github.io/master/base/.thumb/02/Readme.jpg
-category: Eventos
+category: eventos
 tags:
   - Notícías
 ---

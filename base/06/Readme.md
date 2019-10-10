@@ -1,4 +1,4 @@
-## ð2019-05-15 ©Visitas Visita à escola Virgílio Távora
+## ð2019-05-15 ©visitas Visita à escola Virgílio Távora
 
 ![](__capa.jpg)
 

@@ -1,4 +1,4 @@
-## ð2017-07-05 ©Eventos De volta ao lar #Notícias
+## ð2017-07-05 ©eventos De volta ao lar #Notícias
 
 ![](__capa.jpg)
 

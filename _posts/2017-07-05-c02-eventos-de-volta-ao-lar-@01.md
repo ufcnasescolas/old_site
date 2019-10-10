@@ -3,7 +3,7 @@ layout: post
 title: De volta ao lar
 image: https://raw.githubusercontent.com/ufcnasescolas/ufcnasescolas.github.io/master/base/01/__capa.jpg
 optimized_image: https://raw.githubusercontent.com/ufcnasescolas/ufcnasescolas.github.io/master/base/.thumb/01/Readme.jpg
-category: Eventos
+category: eventos
 tags:
   - Notícias
 ---

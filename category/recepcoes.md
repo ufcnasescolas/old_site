@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Recepções
-slug: Recepções
-description: Recepções
+slug: recepcoes
+description: recepcoes
 ---

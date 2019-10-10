@@ -1,4 +1,4 @@
-## ð2019-08-06 ©Recepções Recepção da escola Salomão Alves
+## ð2019-08-06 ©recepcoes Recepção da escola Salomão Alves
 
 ![](__capa.jpg)
 

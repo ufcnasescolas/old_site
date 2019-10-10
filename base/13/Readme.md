@@ -1,4 +1,4 @@
-## ð2019-06-18 ©Visitas Visita ao IFCE
+## ð2019-06-18 ©visitas Visita ao IFCE
 
 ![](__capa.jpg)
 

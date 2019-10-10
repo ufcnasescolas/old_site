@@ -1,4 +1,4 @@
-## ð2019-09-18 ©Recepções Recepção da escola Célio Rodrigues
+## ð2019-09-18 ©recepcoes Recepção da escola Célio Rodrigues
 
 ![](__capa.jpg)
 
@@ -21,3 +21,21 @@ No mais, foi uma visita bastante agradável e uma troca de conversa tanto os alu
 Esperamos vocês como nossos futuros alunos-amigos!!!
 
 ![](__img1.jpg)
+
+
+
+
+<div class="row">
+  <div class="column">
+    <img src="__capa.jpg">
+    <img src="__capa.jpg">
+  </div>
+  <div class="column">
+    <img src="__img1.jpg">
+    <img src="__img1.jpg">
+  </div>
+  <div class="column">
+    <img src="__img1.jpg">
+    <img src="__img1.jpg">
+  </div>
+</div>

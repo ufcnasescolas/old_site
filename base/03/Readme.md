@@ -1,4 +1,4 @@
-## ð2019-05-07 ©Recepções Recepção da escola Joaquim Antônio Albano
+## ð2019-05-07 ©recepcoes Recepção da escola Joaquim Antônio Albano
 ###
 
 ![](__capa.jpg)
