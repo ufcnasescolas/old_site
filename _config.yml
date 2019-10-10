@@ -16,11 +16,12 @@ show_hero: true
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: ufcnasescolas
-#facebook_username: facebook_username
+facebook_username: ufcnasescolas
 #twitter_username: twitter_username
-#instagram_username: instagram_username
+instagram_username: ufc.nas.escolas
 #linkedin_username: linkedin_username
 #medium_username: medium_username
+youtube_username: ufc.nas.escolas
 
 
 # Theme Settings
