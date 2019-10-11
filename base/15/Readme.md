@@ -1,5 +1,5 @@
-## ð2019-09-18 ©recepcoes Recepção da escola Célio Rodrigues
-
+## ©recepcoes ð2019-09-18 Recepção da escola Célio Rodrigues
+###
 ![](__capa.jpg)
 
 Hoje por volta das 10h do dia 18 de setembro de 2019, a Universidade Federal Campus Quixadá recebeu a escola EEEP Raimundo Célio Rodrigues para uma conversa.  Com ela 44 alunos do segundo ano e um professor  muito animados e curiosos por desvendar a UFC.
