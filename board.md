@@ -11,5 +11,6 @@
 [](base/12/Readme.md) : ## ©recepcoes ð2019-06-18 Recepção da escola Adolfo Ferreira        : ###
 [](base/14/Readme.md) : ## ©recepcoes ð2019-08-06 Recepção da escola Salomão Alves          : ###
 [](base/15/Readme.md) : ## ©recepcoes ð2019-09-18 Recepção da escola Célio Rodrigues        : ###
+[](base/16/Readme.md) : ## ©recepcoes ð2019-10-25 Recepção da escola Alfredo Machado        : ###
 [](base/01/Readme.md) : ## ©eventos ð2017-07-05 De volta ao lar #Notícias                   : ###
 [](base/02/Readme.md) : ## ©eventos ð2018-02-05 Um bom começo #Notícías                     : ###
