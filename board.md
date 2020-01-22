@@ -15,4 +15,4 @@
 [](base/2019-10-25/Readme.md)  : ## ©recepcoes ð2019-10-25 Recepção da escola Alfredo Machado        : ###
 [](base/2017-07-05/Readme.md)  : ## ©eventos ð2017-07-05 De volta ao lar #Notícias                   : ###
 [](base/2018-02-05/Readme.md)  : ## ©eventos ð2018-02-05 Um bom começo #Notícías                     : ###
-[](base/2020-02-20/Readme.md)  : ## ©eventos ð2020-02-20 UFC Day 2020.1                              : ### Embaixadores da Esperança
+[](base/2020-01-22/Readme.md)  : ## ©eventos ð2020-01-22 UFC Day 2020.1                              : ### Embaixadores da Esperança
